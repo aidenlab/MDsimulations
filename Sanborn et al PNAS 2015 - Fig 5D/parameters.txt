@@ -1,0 +1,21 @@
+N = 3000
+steps = 150000
+print_every = 1000
+
+nextrude = 4000
+steps_per_extrude = 200
+nbonds = 10
+
+T = 2.0
+gamma = 0.02
+
+epsilon = 1.0
+sigma = 0.89089871814
+lj_cut = 2.5
+
+k_bb = 200.0
+r0_bb = 0.70710678118
+k_loop = 10.0
+r0_loop = 1.0
+
+dt = 0.005
