@@ -1,5 +1,5 @@
 # SanbornRaoPNAS2015
-Scripts and code related to Sanborn and Rao et al. PNAS 2015
+Scripts and molecular dynamics simulation code from the Aiden Lab. Developed by Adrian Sanborn.
 
 The molecular dynamics code here will reproduce the simulations presented in various publications. The HOOMD-Blue package is required, available from http://glotzerlab.engin.umich.edu/hoomd-blue/. Note that HOOMD was rewritten in version 2.x and the code here is not compatible with these newer versions. This code is compatible with v1.3.3, which can be compiled from source.
 
